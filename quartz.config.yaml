@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: github.com/sbrooksby-ship-it/my-garden
+  baseUrl: sbrooksby-ship-it.github.io/my-garden
   ignorePatterns:
     - private
     - templates
